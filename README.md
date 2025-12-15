@@ -1,21 +1,18 @@
-# This project focuses on understanding and applying CSS Grid for modern layouts.
+ This project focuses on understanding and applying CSS Grid for modern layouts.
 
-## 🔗 Live Demo
+ 🔗 Live Demo
 madewithcssgrid.netlify.app
 
-## 🛠️ Built With
+ Built With
 
 * HTML
 * CSS (CSS Grid)
 
----
-
-## Concepts Practiced
+ Concepts Practiced
 
 * CSS Grid columns and rows
 * Grid gaps and alignment
 * Responsive layouts
 
----
 
-**Kehinde Oladejo**
+
